@@ -18,3 +18,5 @@ wanime ls 'sao' --status=watching --alpha | awk {'print $1'} | while read -r SHO
 wanime search 'log horizon' --alpha | awk {'print $1'} | while read -r SHOW_ID; do wanime watch $SHOW_ID --marathon; done
 ```
 a fun and efficient possibility.
+
+Repo on hold until I have time to work on it, in the meantime theres the gist I wrote that inspired this https://gist.github.com/akumasenpai/d0fccca030af69e737d2
