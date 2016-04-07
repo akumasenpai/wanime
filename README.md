@@ -20,3 +20,5 @@ wanime search 'log horizon' --alpha | awk {'print $1'} | while read -r SHOW_ID; 
 a fun and efficient possibility.
 
 Repo on hold until I have time to work on it, in the meantime theres the gist I wrote that inspired this https://gist.github.com/akumasenpai/d0fccca030af69e737d2
+
+If this repo gets enough stars/watchers I'll work on it. Until then I'm just using the gist and using the time to actually watch anime :P
